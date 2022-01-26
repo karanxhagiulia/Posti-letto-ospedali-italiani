@@ -26,10 +26,11 @@ plt.title("Totale posti letto in ospedale in Italia dal 2010 al 2019")
 ```
 ![Total](https://user-images.githubusercontent.com/96819403/150987980-e5ddc63e-39ad-4937-ab8d-2603294508e5.jpeg)
 
-[Qui la versione interattiva della Dashboard su Tableau.](https://public.tableau.com/app/profile/karanxhagiulia/viz/TotalepostilettoinospedaleinItalia2010-2018/Dashboard2)
+[Qui la versione interattiva 1 della Dashboard su Tableau.](https://public.tableau.com/app/profile/karanxhagiulia/viz/TotalepostilettoinospedaleinItalia2010-2018/Dashboard3)
 
+[Qui la versione interattiva 2 della Dashboard su Tableau.](https://public.tableau.com/app/profile/karanxhagiulia/viz/TotalepostilettoinospedaleinItalia2010-2018/Dashboard2)
 
-![Dashboard 2](https://user-images.githubusercontent.com/96819403/150989069-68e81657-030d-456b-b1bf-d72cfb747718.png)
+![Immagine 2022-01-26 110925](https://user-images.githubusercontent.com/96819403/151144251-cff1b9e8-1220-4eb8-be9a-583e86eecace.png)
 
 
 Tabella modificabile creata con Excel.
