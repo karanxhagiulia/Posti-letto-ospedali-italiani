@@ -33,7 +33,5 @@ plt.title("Totale posti letto in ospedale in Italia dal 2010 al 2019")
 ![Immagine 2022-01-26 110925](https://user-images.githubusercontent.com/96819403/151144251-cff1b9e8-1220-4eb8-be9a-583e86eecace.png)
 
 
-Tabella modificabile creata con Excel.
-![Immagine 2022-01-25 125908](https://user-images.githubusercontent.com/96819403/150989603-f20cca14-4c12-409d-aa01-30961b15fdf0.png)
 
 
