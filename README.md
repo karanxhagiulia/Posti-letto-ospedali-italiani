@@ -28,10 +28,11 @@ plt.title("Totale posti letto in ospedale in Italia dal 2010 al 2019")
 
 [Qui la versione interattiva 1 della Dashboard su Tableau.](https://public.tableau.com/app/profile/karanxhagiulia/viz/TotalepostilettoinospedaleinItalia2010-2018/Dashboard3)
 
-[Qui la versione interattiva 2 della Dashboard su Tableau.](https://public.tableau.com/app/profile/karanxhagiulia/viz/TotalepostilettoinospedaleinItalia2010-2018/Dashboard2)
+[Qui la versione interattiva finale della Dashboard su Tableau.](https://public.tableau.com/app/profile/karanxhagiulia/viz/TotalepostilettoinospedaleinItalia/Dashboard4)
 
-![Immagine 2022-01-26 110925](https://user-images.githubusercontent.com/96819403/151144251-cff1b9e8-1220-4eb8-be9a-583e86eecace.png)
 
+
+![totalepostilettoitalia](https://user-images.githubusercontent.com/96819403/157837576-383541a6-d43e-4da1-a5d1-4791c7bb62a5.png)
 
 
 
